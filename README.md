@@ -6,47 +6,6 @@ Sebuah **Progressive Web App (PWA)** sederhana untuk prakiraan cuaca yang dibang
 [![Service Worker](https://img.shields.io/badge/Service%20Worker-Active-blue)](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 [![Web App Manifest](https://img.shields.io/badge/Web%20App%20Manifest-✓-green)](https://developer.mozilla.org/en-US/docs/Web/Manifest)
 
-## 📱 Demo & Screenshots
-
-> **Live Demo**: [Hosting URL akan ditambahkan setelah deployment]
-
-### Desktop View
-```
-┌─────────────────────────────────────┐
-│ 🌤️ Kode PWA                        │
-├─────────────────────────────────────┤
-│                                     │
-│  📍 Jakarta, Indonesia              │
-│  🌤️ Partly Cloudy  25°C           │
-│  💧 Humidity: 65%                  │
-│  💨 Wind: 12 mph                   │
-│                                     │
-│  7-Day Forecast:                    │
-│  [Mon] [Tue] [Wed] [Thu] [Fri]     │
-│   ☀️    🌤️    ☁️    🌧️    ⛈️      │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-### Mobile View
-```
-┌─────────────────┐
-│ 🌤️ Kode PWA     │
-├─────────────────┤
-│                 │
-│ 📍 Jakarta, ID  │
-│ 🌤️ 25°C        │
-│ Partly Cloudy   │
-│                 │
-│ 💧 65% humidity │
-│ 💨 12 mph wind  │
-│                 │
-│ [7-day cards]   │
-│                 │
-│            [+]  │
-└─────────────────┘
-```
-
 ## ✨ Fitur Utama
 
 ### 🌐 Progressive Web App Features
@@ -337,10 +296,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Developer
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**[BAMOEBIN]**
+- GitHub: [@bamoebin](https://github.com/bamoebin)
+- Email: farrasaer@gmail.com
 
 ## 🙏 Acknowledgments
 
